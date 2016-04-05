@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexiconaeschyle00dindgoog_0309.png"; bbox 0 0 4300 6317; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 536 2933 541 2951">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 536 2933 541 2951">
+     <span class='ocr_line' id='line_1_1' title="bbox 536 2933 541 2951; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 536 2933 541 2951; x_wconf 61' lang='grc' dir='ltr'><em>θ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 251 2955 664 3038">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 251 2955 664 3038">
+     <span class='ocr_line' id='line_1_2' title="bbox 251 2955 664 3038; baseline -0.002 -43"><span class='ocrx_word' id='word_1_2' title='bbox 251 2968 356 3002; x_wconf 56' lang='lat' dir='ltr'><strong><em>dmm</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 381 2962 395 2996; x_wconf 75' lang='grc' dir='ltr'>Ν</span> <span class='ocrx_word' id='word_1_4' title='bbox 418 2963 550 3038; x_wconf 38' lang='lat' dir='ltr'><strong><em>Sarnus</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 623 2955 664 2987; x_wconf 61' lang='lat'><strong><em>1„</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 285 3003 291 3052">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 285 3003 291 3052">
+     <span class='ocr_line' id='line_1_3' title="bbox 285 3003 291 3052; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 285 3003 291 3052; x_wconf 76' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2154 6308">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2154 6308">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2154 6308; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2154 6308; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

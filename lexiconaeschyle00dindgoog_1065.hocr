@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexiconaeschyle00dindgoog_1065.png"; bbox 0 0 4300 6317; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1010 4534 1260 4733">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1010 4534 1260 4733">
+     <span class='ocr_line' id='line_1_1' title="bbox 1010 4534 1260 4660; baseline -0.008 -64"><span class='ocrx_word' id='word_1_1' title='bbox 1010 4534 1260 4660; x_wconf 49' lang='lat' dir='ltr'>[tssnrffitertu]</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1015 4643 1228 4733; baseline -0.023 -40"><span class='ocrx_word' id='word_1_2' title='bbox 1015 4643 1228 4733; x_wconf 43' lang='lat' dir='ltr'>&amp;afim</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1066 4744 1075 4764">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1066 4744 1075 4764">
+     <span class='ocr_line' id='line_1_3' title="bbox 1066 4744 1075 4764; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1066 4744 1075 4764; x_wconf 70' lang='lat'>9</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1032 4753 1227 4863">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1032 4753 1227 4863">
+     <span class='ocr_line' id='line_1_4' title="bbox 1032 4753 1227 4863; baseline 0.005 -59"><span class='ocrx_word' id='word_1_4' title='bbox 1032 4753 1227 4863; x_wconf 49' lang='lat' dir='ltr'>{msam</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2154 6308">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2154 6308">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2154 6308; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 2154 6308; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexiconaeschyle00dindgoog_0669.png"; bbox 0 0 4300 6317; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1328 2641 1895 2749">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1328 2641 1895 2749">
+     <span class='ocr_line' id='line_1_1' title="bbox 1328 2641 1895 2749; baseline -0.014 -36"><span class='ocrx_word' id='word_1_1' title='bbox 1328 2672 1387 2734; x_wconf 58' lang='grc' dir='ltr'><em>χι,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1412 2657 1438 2713; x_wconf 72' lang='grc' dir='ltr'><em>ιζ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1461 2664 1480 2721; x_wconf 80' lang='grc' dir='ltr'><em>Α</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1507 2666 1586 2749; x_wconf 56' lang='lat'><em>...5</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1607 2641 1895 2707; x_wconf 41' lang='lat' dir='ltr'><em>sffissucdo.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1146 2660 1303 2781">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1146 2660 1303 2781">
+     <span class='ocr_line' id='line_1_2' title="bbox 1146 2660 1303 2781; baseline 0.013 -37"><span class='ocrx_word' id='word_1_6' title='bbox 1146 2660 1303 2781; x_wconf 44' lang='lat' dir='ltr'><em>(saliet</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1136 2981 1978 3133">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1136 2981 1978 3133">
+     <span class='ocr_line' id='line_1_3' title="bbox 1136 2981 1978 3133; baseline -0.001 -58"><span class='ocrx_word' id='word_1_7' title='bbox 1136 3027 1294 3133; x_wconf 57' lang='lat' dir='ltr'><em>wiese</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1320 3005 1520 3121; x_wconf 43' lang='grc' dir='ltr'><em>μὴ)</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1537 3001 1668 3065; x_wconf 54' lang='lat' dir='ltr'><em>mm«</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1697 2996 1762 3052; x_wconf 55' lang='grc' dir='ltr'><em>θ’</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1781 2981 1907 3074; x_wconf 51' lang='lat' dir='ltr'><em>W*</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1923 2993 1978 3040; x_wconf 55' lang='grc' dir='ltr'><em>θ’*</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1153 3132 1438 3220">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1153 3132 1438 3220">
+     <span class='ocr_line' id='line_1_4' title="bbox 1153 3132 1438 3220; baseline -0.004 -29"><span class='ocrx_word' id='word_1_13' title='bbox 1153 3157 1223 3220; x_wconf 64' lang='grc' dir='ltr'><em>πῃ</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1259 3132 1348 3210; x_wconf 41' lang='lat'><em>&#39;4¹2¹-</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1363 3142 1415 3190; x_wconf 56' lang='grc' dir='ltr'><em>ιώ</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1428 3161 1438 3180; x_wconf 86' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2154 6308">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2154 6308">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2154 6308; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 2154 6308; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
